@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.04- REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE:27.4.2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/Sandhiyapalanivel/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743091/6b47faa0-f8bb-4236-8ee3-1b415daa2069)
 
 ### Output:
+![image](https://github.com/Sandhiyapalanivel/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/145743091/f70a190b-f118-41ad-860a-48ac2b9ed6be)
 
 
-### Name:
-### Register Number:
+### Name: SANDHIYA P
+### Register Number: 212223230183
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
